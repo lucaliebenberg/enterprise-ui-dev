@@ -96,10 +96,10 @@ describe('Person', () => {
     };
 
     expect.hasAssertions();
-    expect(fn()).toBe('')
+    expect(fn()).not.toBe('')
 
     // Verify that function above throws.
-    
+
   });
 
   it.todo(
