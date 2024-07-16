@@ -34,3 +34,7 @@ random
 content/orphaned files output.md
 
 html
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
